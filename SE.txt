@@ -1,0 +1,13 @@
+Kindly take note of the following:
+1.	You need to come to IT2 lab with your laptops
+2.	This email has a word document attached that consists of instructions to be followed for your second lab assignment
+3.	The assignment is worth 10 marks
+4.	The breakup of marks for the assignment is mentioned in the attached document
+5.	Please read the attached document carefully, it has all the steps needed to solve the assignment
+6.	Those who complete the assignment will have their assignments evaluated in lab
+7.	Those who do not complete the assignment can do it when in lab
+8.	That said, I will be explaining the basics of GitHub in lab, clarifying doubts and evaluating assignments
+9.	The end product of your assignment will be your GitHub URL, which needs to be mentioned in the Google assignment submission form
+10.	Those who do not complete the assignment in lab can take it back and complete it by Saturday 11:59 pm, the submission link of the assignment is link
+11.	Any doubts related to any aspect of GitHub and assignment will be resolved in lab session
+

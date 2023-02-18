@@ -10,4 +10,5 @@ Kindly take note of the following:
 9.	The end product of your assignment will be your GitHub URL, which needs to be mentioned in the Google assignment submission form
 10.	Those who do not complete the assignment in lab can take it back and complete it by Saturday 11:59 pm, the submission link of the assignment is link
 11.	Any doubts related to any aspect of GitHub and assignment will be resolved in lab session
+12. Don't forget to submit.
 
